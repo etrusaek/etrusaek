@@ -30,5 +30,5 @@
   ## Contato :
 
   <div class= "conticons" display= "inline">
-      <a href="https://www.linkedin.com/in/etrusaek/"><img width="20px" height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
+      <a href="https://www.linkedin.com/in/etrusaek/" target="_blank"><img width="20px" height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
   </div>
